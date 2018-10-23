@@ -20,6 +20,7 @@ https://drive.google.com/drive/folders/1109lpEAZDEaSPIP9gzOphlcEh9nTngfe?usp=sha
 into Project folder
 
 Embeddings : 
+
   HealthTap   : Trained by us
   https://www.healthtap.com/
   
