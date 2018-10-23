@@ -21,11 +21,14 @@ into Project folder
 
 Embeddings : 
 
-  HealthTap   : Trained by us
+-HealthTap   : Trained by us
   https://www.healthtap.com/
   
-  Google News : PreTrained  
+-Google News : PreTrained  
   https://code.google.com/archive/p/word2vec/
   
-  Glove       : PreTrained    -
-  Pubmed      : PreTrained    -
+-Glove       : PreTrained
+  https://nlp.stanford.edu/projects/glove/
+  
+-Pubmed      : PreTrained   
+  http://evexdb.org/pmresources/vec-space-models/
