@@ -3,11 +3,6 @@
 MedSpecSearch (www.medspecsearch.com) is a search engine for helping users to find the relevant medical specialty for a doctor visit based on users’ description of symptoms. This system is useful for users who are not sure of which medical specialty they should consult to.
 Furthermore, the API of the search engine can be used as part of the online doctor appointment and medical consultation sites to route the patient or question to the right medical specialty.
 
-The system returns the top 3 relevant specialties when the estimated
-confidence score is high. Otherwise it asks users to input more data.
-
-
-
 For system to function fully , add embeddings folder from 
 https://drive.google.com/drive/folders/1109lpEAZDEaSPIP9gzOphlcEh9nTngfe?usp=sharing
 into Project folder
