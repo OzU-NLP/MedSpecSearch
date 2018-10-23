@@ -1,0 +1,2 @@
+model_checkpoint_path: "/GoogleNews/model.ckpt"
+all_model_checkpoint_paths: "/GoogleNews/model.ckpt"
