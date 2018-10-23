@@ -20,7 +20,11 @@ https://drive.google.com/drive/folders/1109lpEAZDEaSPIP9gzOphlcEh9nTngfe?usp=sha
 into Project folder
 
 Embeddings : 
-  HealthTap   : Trained by us - https://www.healthtap.com/
-  Google News : PreTrained    -   
+  HealthTap   : Trained by us
+  https://www.healthtap.com/
+  
+  Google News : PreTrained  
+  https://code.google.com/archive/p/word2vec/
+  
   Glove       : PreTrained    -
   Pubmed      : PreTrained    -
